@@ -5,11 +5,11 @@ import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import scheduler from "../style/imgs/challenge5.scheduler.PNG";
-import weather from "../style/imgs/challenge6.weather.PNG";
+import scheduler from "../style/imgs/scheduler.PNG";
+import weather from "../style/imgs/weather.PNG";
 import nosql from "../style/imgs/nosql.PNG";
 import notes from "../style/imgs/notes.png";
-import tctgy from "../style/imgs/tctgy.PNG";
+import gamer from "../style/imgs/gamer.PNG";
 import profiles from "../style/imgs/profiles.png"
 import "../style/Portfolio.css"
 
@@ -41,7 +41,7 @@ export default function Portfolio() {
     <Card.Body className="example">
       <Card.Title>Weather Application</Card.Title> 
       <Card.Text>
-        A web application for searching and saving the five day weather forecast for various cities. 
+        A web application to look up and save five day weather forecasts for various cities. 
       </Card.Text>
       <Button variant="primary" id="link" href="https://github.com/ThalVal/weather-api">Visit GitHub Repo</Button>
     </Card.Body>
@@ -63,7 +63,7 @@ export default function Portfolio() {
     <Card.Body className="example">
       <Card.Title>Web App Notes</Card.Title>
       <Card.Text>
-        A note taking app for users to store their To Dos or other reminders.
+        An easy to you web application to take notes
       </Card.Text>
       <Button variant="primary" id="link" href="https://github.com/ThalVal/taking-notes">Visit GitHub Repo</Button>
     </Card.Body>

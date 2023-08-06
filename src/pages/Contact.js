@@ -11,7 +11,7 @@ export default function Contact() {
                 <h4>Contact Information</h4>
             </div>
             <div className="contactInfo">
-                <Button onClick={() => window.location = 'mailto:'} className="contactButton">Email Me</Button>
+                <Button onClick={() => window.location = 'mailto:vthalissa@yahoo.com'} className="contactButton">Email Me</Button>
                 
                
                 <Button variant="primary" href="https://github.com/ThalVal" className="contactButton">Visit GitHub Repo</Button>
