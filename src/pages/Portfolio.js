@@ -33,7 +33,7 @@ export default function Portfolio() {
       <Card.Text>
         An online scheduling application to allow the user to plan their work days.
       </Card.Text>
-      <Button variant="primary" id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary" id="link" href="https://github.com/ThalVal/work-day-cal">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     <Col xs={6}>
@@ -43,7 +43,7 @@ export default function Portfolio() {
       <Card.Text>
         A web application for searching and saving the five day weather forecast for various cities. 
       </Card.Text>
-      <Button variant="primary" id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary" id="link" href="https://github.com/ThalVal/weather-api">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     </Row>
@@ -55,7 +55,7 @@ export default function Portfolio() {
       <Card.Text>
         A NoSql CLI generated app with full CRUD function and built with MongooseDB
       </Card.Text>
-      <Button variant="primary" id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary" id="link" href="https://github.com/ThalVal/social-network-api">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     <Col xs={6}>
@@ -65,7 +65,7 @@ export default function Portfolio() {
       <Card.Text>
         A note taking app for users to store their To Dos or other reminders.
       </Card.Text>
-      <Button variant="primary" id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary" id="link" href="https://github.com/ThalVal/taking-notes">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     </Row>
@@ -77,7 +77,7 @@ export default function Portfolio() {
       <Card.Text>
         A Horror themed, text based, create-your-own-adventure game with a variety of endings based on the users decisions. Multiple endings can be reached through the story tree.
       </Card.Text>
-      <Button variant="primary"  id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary"  id="link" href="https://github.com/ThalVal/back-end-Horror">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     
@@ -88,7 +88,7 @@ export default function Portfolio() {
       <Card.Text>
         A Command Line application to generate a webpage that displays a manager's team information
       </Card.Text>
-      <Button variant="primary"  id="link" href="">Visit GitHub Repo</Button>
+      <Button variant="primary"  id="link" href="https://github.com/ThalVal/team-generate-her">Visit GitHub Repo</Button>
     </Card.Body>
     </Col>
     </Row>

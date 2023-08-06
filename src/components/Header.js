@@ -14,7 +14,7 @@ export default function About () {
     return (
         <header className= 'header' style={styles.header}>
             
-            <h1>Killian L. Podhajsky</h1>
+            <h1>Thalissa Valery</h1>
             <p></p>
             <h3> Full Stack Web Developer </h3>
             

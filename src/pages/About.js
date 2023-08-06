@@ -21,7 +21,7 @@ export default function About () {
               <br></br>
               <p> </p>
               <div className="pic">
-            <img src = {profpic}></img>
+            <img src = {icon}></img>
             </div>
             </div>
          

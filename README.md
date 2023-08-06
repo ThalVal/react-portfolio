@@ -19,3 +19,5 @@ A professional portfolio webpage built using React.js. This web application show
 
 ## Contact Information 
 
+https://profile.indeed.com/resume
+https://github.com/ThalVal
