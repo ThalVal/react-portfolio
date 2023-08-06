@@ -19,21 +19,38 @@ export default function Resume() {
                             <div className="flex flex-col ph-8 last:ph-0 md:text-left" id="information">
                                 <div className="fle flex-col ph-4">
                                     <h3 className="workEx">
-                                        INSERT PREVIOUS WORK
+                                        Server
                                     </h3>
                                 <div className="flex items-center justify-center gap-x-2 md:justify-start">
-                                    <span className="flex-1 text-sm font-medium italic sm:flex-none">INSERT JOB NAME</span>
+                                    <span className="flex-1 text-sm font-medium italic sm:flex-none">U:DON</span>
                                     <span> * </span>
-                                    <span className="flex-1 text-sm sm:flex-none">INSERT JOB TIMEFRAME</span>
+                                    <span className="flex-1 text-sm sm:flex-none">May 2021-present</span>
                                 </div>
                                 </div>
                                 <p>
                                     <ul>
-                                        <li>INSERT JOB DESCRIPTION</li>
+                                        <li>Servers create udon bowls and add any extra add ons for customers and create an overall goo experience for their meals.</li>
                                     </ul>
                                 </p>
                             </div>
-                            INSERT DUPLICATE BC IT BREAKS FOR SOME REASON
+                            <div className="flex flex-col ph-8 last:ph-0 md:text-left" id="information">
+                                <div className="fle flex-col ph-4">
+                                    <h3 className="workEx">
+                                        Barista
+                                    </h3>
+                                <div className="flex items-center justify-center gap-x-2 md:justify-start">
+                                    <span className="flex-1 text-sm font-medium italic sm:flex-none">Starbucks</span>
+                                    <span> * </span>
+                                    <span className="flex-1 text-sm sm:flex-none">September-October 2018</span>
+                                </div>
+                                </div>
+                                <p>
+                                    <ul>
+                                        <li>Baristas make and serve beverages, such as coffee and tea, and foods such as sandwiches, muffins, or cookies. </li>
+                                        <li>They package coffee blends, make coffee and tea, explain menu items to customers, clean, and attempt to ensure that customers are comfortable and satisfied.</li>
+                                    </ul>
+                                </p>
+                            </div>
                     <div className="grid grid-cols-1 gap-y-4 py-8 first:pt-0 last:pb-0 md:grid-cols-4">
                         <div className="col-span-1 flex justify-center md:justify-start">
                             <div className="relative h-max">
@@ -82,11 +99,13 @@ export default function Resume() {
                                     <span className="flex-1 text-sm sm:flex-none">March-June 2023</span>
                                 </div>
                                 </div>
-                                <p>Work Experience</p>
+                                <p>Future work experience here :3</p>
                             </div>
                         </div>
                     </div>
+                    </div>
                 </div>
+            </div>
             </div>
 
         </section>
