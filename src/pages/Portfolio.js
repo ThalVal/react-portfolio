@@ -5,12 +5,12 @@ import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import scheduler from "../style/imgs/scheduler.PNG";
+/*import scheduler from "../style/imgs/scheduler.PNG";
 import weather from "../style/imgs/weather.PNG";
 import nosql from "../style/imgs/nosql.PNG";
 import notes from "../style/imgs/notes.png";
 import gamer from "../style/imgs/gamer.PNG";
-import profiles from "../style/imgs/profiles.png"
+import profiles from "../style/imgs/profiles.png" */
 import "../style/Portfolio.css"
 
 
