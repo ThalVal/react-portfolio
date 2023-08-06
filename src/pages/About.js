@@ -1,7 +1,7 @@
 import React from 'react';
 
 import "../style/About.css"
-import profpic from "../style/imgs/profilepic (2).jpg"
+import profpic from "../style/imgs/icon.jpg"
 
 export default function About () {
    

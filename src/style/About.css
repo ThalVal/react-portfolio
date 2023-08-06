@@ -8,8 +8,8 @@
 
 .excerpt {
     
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
   
     margin: 5% 0 0 10%;
     
@@ -21,7 +21,7 @@
 }
 
 img {
-    height: 250px;
+    height: 260px;
     border-radius: 50% 0 50% 0;
     
     
