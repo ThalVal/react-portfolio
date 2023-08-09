@@ -5,12 +5,6 @@ import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import scheduler from "../style/imgs/scheduler.PNG";
-import weather from "../style/imgs/weather.PNG";
-import nosql from "../style/imgs/nosql.PNG";
-import notes from "../style/imgs/notes.png";
-import gamer from "../style/imgs/gamer.PNG";
-import profiles from "../style/imgs/profiles.png"
 import "../style/Portfolio.css"
 
 
@@ -23,7 +17,7 @@ export default function Portfolio() {
     <Card style={{ width: '50rem'  }}>
     <Row className="justify-content-md-center">
     <Col xs={6}>
-    <Card.Img variant="top" src={scheduler}  />
+    {/* <Card.Img variant="top" src={scheduler}  /> */}
       <br></br>
       <br></br>
       <br></br>
@@ -37,7 +31,7 @@ export default function Portfolio() {
     </Card.Body>
     </Col>
     <Col xs={6}>
-    <Card.Img variant="top" src={weather}  />
+    {/* <Card.Img variant="top" src={weather}  /> */}
     <Card.Body className="example">
       <Card.Title>Weather Application</Card.Title> 
       <Card.Text>
@@ -49,7 +43,7 @@ export default function Portfolio() {
     </Row>
     <Row className="justify-content-md-center">
     <Col xs={6}>
-    <Card.Img variant="top" src={nosql}   />
+    {/* <Card.Img variant="top" src={nosql}   /> */}
     <Card.Body className="example">
       <Card.Title>NoSQL CRUD Application</Card.Title> 
       <Card.Text>
@@ -59,7 +53,7 @@ export default function Portfolio() {
     </Card.Body>
     </Col>
     <Col xs={6}>
-    <Card.Img variant="top" src={notes}   />
+    {/* <Card.Img variant="top" src={notes}   /> */}
     <Card.Body className="example">
       <Card.Title>Web App Notes</Card.Title>
       <Card.Text>
@@ -71,7 +65,7 @@ export default function Portfolio() {
     </Row>
     <Row className="justify-content-md-center">
     <Col xs={6}>
-    <Card.Img variant="top" src={gamer}  />
+    {/* <Card.Img variant="top" src={gamer}  /> */}
     <Card.Body className="example" >
       <Card.Title>They're Coming to Get You</Card.Title>
       <Card.Text>
@@ -82,7 +76,7 @@ export default function Portfolio() {
     </Col>
     
     <Col xs={6}>
-    <Card.Img variant="top" src={profiles}  />
+    {/* <Card.Img variant="top" src={profiles}  /> */}
     <Card.Body className="example" >
       <Card.Title>Team Profiles</Card.Title>
       <Card.Text>
